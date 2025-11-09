@@ -70,7 +70,7 @@ const Index = () => {
             <span className="font-black">@ Madras Engineering College.</span>
           </h2>
           <p className="mb-8 text-lg text-muted-foreground max-w-4xl mx-auto">
-            India's 1st Engineering College Specialising in IT, Computer Science, Data Science,
+           Best Engineering College Specialising in IT, Computer Science, Data Science,
             Artificial Intelligence, Machine Learning, Cybersecurity & Business Systems.
           </p>
           <Button 
